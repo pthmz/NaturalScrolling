@@ -1,17 +1,17 @@
-在网吧实现鼠标滚轮自然滚动
+## 在网吧实现鼠标滚轮自然滚动
 
-使用.NET 8.0
+使用 **.NET 8.0** 开发。
 
-依赖项：`System.Management`（已包含在Visual Studio项目内）
+### 依赖项
 
-测试通过
+- `System.Management`（已包含在 Visual Studio 项目内）
 
-测试环境：
+### 测试状态
 
-Windows 10 专业版
+- **测试通过**
 
-22H2
+### 测试环境
 
-操作系统内部版本：19045.4412
-
-体验：Windows Feature Experience Pack 1000.19056.1000.0
+- **操作系统**: Windows 10 专业版, 22H2
+- **操作系统内部版本**: 19045.4412
+- **体验包**: Windows Feature Experience Pack 1000.19056.1000.0
